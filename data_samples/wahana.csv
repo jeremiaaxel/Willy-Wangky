@@ -1,0 +1,12 @@
+ID_Wahana,Nama_Wahana,Harga_Tiket,Batasan_Umur,Batasan_Tinggi
+AXB123,Roller Coaster,70000,dewasa,tanpa batasan
+AWJ788,Coaster Rox,45000,dewasa,>= 170 cm
+QWA134,Ayyn Fast,55000,anak-anak,tanpa batasan
+MFN165,Fast Yum,30000,anak-anak,>= 170 cm
+AWV908,Ayunan Pusying,15000,semua umur,tanpa batasan
+UHY765,Sky rider,60000,dewasa,>= 170 cm
+YGT134,High Jump,40000,dewasa,>= 170 cm
+AZX156,Bicycle Fire,75000,dewasa,>= 170 cm
+QRT167,Snow apa,35000,anak-anak,>= 170 cm
+PVN909,Time Travel,80000,semua umur,tanpa batasan
+EOP,,,,
